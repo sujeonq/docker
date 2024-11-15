@@ -1,0 +1,4 @@
+EX4/db/mysql/data/auto.cnf
+EX4/db/mysql/data/binlog.index
+EX4/db/mysql/data/ib_buffer_pool
+EX4/db/mysql/data/*.sock
